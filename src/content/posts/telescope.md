@@ -1,5 +1,5 @@
 ---
-title: Telescope — Simple Domain Bug Scanner
+title: Telescope | Simple Domain Bug Scanner
 published: 2025-08-14
 tags: [Telescope, TypeScript, Security, Domain-Scanner]
 category: Projects
@@ -7,7 +7,7 @@ image: https://raw.githubusercontent.com/dickymuliafiqri/Telescope/refs/heads/ma
 draft: false
 ---
 
-# Telescope — Simple Domain Bug Scanner
+# Telescope | Simple Domain Bug Scanner
 
 [**Telescope**](https://github.com/dickymuliafiqri/Telescope) adalah proyek berbasis **TypeScript** yang dirancang untuk melakukan pemindaian domain secara cepat dan mendeteksi potensi kerentanan.  
 Alat ini cocok digunakan oleh pengembang, pentester, maupun sysadmin yang ingin memeriksa keamanan konfigurasi domain secara efisien.
