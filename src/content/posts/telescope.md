@@ -1,5 +1,5 @@
 ---
-title: Telescope | Simple Domain Bug Scanner
+title: Simple Domain Bug Scanner
 published: 2025-08-14
 tags: [Telescope, TypeScript, Security, Domain-Scanner]
 category: Projects

@@ -1,5 +1,5 @@
 ---
-title: MeubelCatalog | Catalog Toko Meubel dan Furniture di Banyuwangi
+title: Catalog Toko Meubel dan Furniture di Banyuwangi
 published: 2025-08-14
 tags: [MeubelCatalog, Nuxt, Vue, TypeScript, Furniture]
 category: Projects

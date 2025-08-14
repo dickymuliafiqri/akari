@@ -1,5 +1,5 @@
 ---
-title: Nautica | Cloudflare Workers Proxy Manager
+title: Cloudflare Workers Proxy Manager
 published: 2025-08-14
 tags: [Nautica, Cloudflare, Proxy, JavaScript, Networking]
 category: Projects

@@ -1,5 +1,5 @@
 ---
-title: FGDL-go | Fitgirl Downloader
+title: Fitgirl Downloader
 published: 2025-08-14
 tags: [FGDL-go, Go, CLI, Downloader]
 category: Projects
